@@ -1,6 +1,8 @@
 # flutter_private_bank_app
 
-A new Flutter project.
+Flutter Finance Application UI.
+
+<img width="200" alt="screenshot" src="/assets/screenshots/privatebank.png">
 
 ## Getting Started
 
